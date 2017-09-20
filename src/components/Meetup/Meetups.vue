@@ -5,7 +5,7 @@
 				<v-card class="info" >
 					<v-container fluid>
 						<v-layout row>
-							<v-flex xs5 sm6 md3 offset-sm1 offset-md2> 
+							<v-flex xs5 sm4 md3 offset-sm1 offset-md2> 
 								<v-card-media 
                       				:src="meetup.imageUrl"
                       				height="130px"
