@@ -1,6 +1,6 @@
 Application for Creating , managing events for Bingahmton University students
 
-Steps to run teh application
+Steps to run the application
 
 npm install
 
